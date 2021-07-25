@@ -25,4 +25,5 @@
 
 ## More useful links
 - [Gitignore templates](https://github.com/github/gitignore)
+- [Gitignore generator](https://www.toptal.com/developers/gitignore)
 - [Fireship - DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
