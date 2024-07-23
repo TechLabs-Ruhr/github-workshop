@@ -20,6 +20,10 @@ export default function Home() {
           Welcome to the TechLabs Github Workshop!
         </h2>
 
+        <h3>
+          What is GitHub?
+        </h3>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
