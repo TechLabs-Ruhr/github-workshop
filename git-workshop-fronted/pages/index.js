@@ -20,6 +20,10 @@ export default function Home() {
           Welcome to the TechLabs Github Workshop!
         </h2>
 
+        <h3>
+          This is a workshop to help you learn how to use Github and Github Actions to automate your workflow.
+        </h3>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
