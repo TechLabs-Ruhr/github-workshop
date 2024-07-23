@@ -21,8 +21,12 @@ export default function Home() {
         </h2>
 
         <h3>
-          What is GitHub?
+          This is a workshop to help you learn how to use Github and Github Actions to automate your workflow.
         </h3>
+
+        <h4>
+            What is GitHub?
+        </h4>
 
         <p className={styles.description}>
           Get started by editing{' '}
